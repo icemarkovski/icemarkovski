@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ice markovski
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning jsoftware testing.
+- 🌱 I’m currently learning automation software testing.
 - 💞️ I’m looking to collaborate on web development projects, and to start remote job in software testing.
 - 📫 How to reach me...e-mail: Ice-bt@hotmail.com 
 
